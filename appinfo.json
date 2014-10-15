@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "drakored@gmail.com",
+    "longName": "HelloDreamforce",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "HelloDreamforce",
+    "uuid": "51dc738b-777d-401b-a9c2-faf5ec022304",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
